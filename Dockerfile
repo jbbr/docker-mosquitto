@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM resin/rpi-raspbian:jessie
 
 MAINTAINER Thomas Kerpe <toke@toke.de>
 
