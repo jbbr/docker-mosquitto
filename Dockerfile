@@ -1,6 +1,6 @@
 FROM resin/rpi-raspbian:jessie
 
-MAINTAINER Thomas Kerpe <toke@toke.de>
+MAINTAINER Janek Thomaschewski <janek_docker@jbbr.net>
 
 # Build-time metadata as defined at http://label-schema.org
 ARG BUILD_DATE

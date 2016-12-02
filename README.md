@@ -1,7 +1,8 @@
-docker-mosquitto
+docker-mosquittoarmhf
 ================
 
 Docker image for mosquitto
+Based on [toke/docker-mosquitto](https://github.com/toke/docker-mosquitto) modified for armhf support (Raspberry Pi 2, 3)
 
 [![Docker Stars](https://img.shields.io/docker/stars/toke/mosquitto.svg)](https://hub.docker.com/r/toke/mosquitto/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/toke/mosquitto.svg)](https://hub.docker.com/r/toke/mosquitto/)
